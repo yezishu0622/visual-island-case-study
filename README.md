@@ -128,8 +128,8 @@ Prompt V2 将分类判断优先级调整为：
 
 ## Demo
 
-Live Demo: Coming soon
-
+Live Demo: https://design-vault-orcin.vercel.app
+> Note: The live demo is hosted on Vercel and may be inaccessible or unstable in mainland China without a VPN. A demo video will be provided as a fallback.
 Demo Video: Coming soon
 
 ## Screenshots
