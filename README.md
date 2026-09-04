@@ -1,5 +1,5 @@
 # Visual Island / 视觉岛
-![Visual Island Home](assets/home.jpge)
+![Visual Island Home](assets/home.jpg)
 AI-powered visual asset management tool for designers.
 
 面向设计师与创意工作者的 AI 视觉资产管理工具，用于更高效地整理、分类、检索和回顾视觉参考图片。
