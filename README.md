@@ -39,7 +39,7 @@ AI 不作为独立聊天机器人存在，而是嵌入图片整理流程中。
 **1. AI Category Sorting**
 
 上传图片后，AI 根据图片的设计用途、视觉结构和主体内容，判断其所属分类。
-
+![AI Category Results](assets/ai-category-results.jpeg)
 **2. AI Metadata Completion**
 
 分类完成后，再生成：
@@ -48,7 +48,7 @@ AI 不作为独立聊天机器人存在，而是嵌入图片整理流程中。
 - 1 句简短图片描述
 
 用户仍然可以手动调整分类、标签和描述。
-
+![AI Metadata Completion](assets/ai-completion.jpg)
 ## Model Evaluation
 
 在真实图片测试中，我使用约 25 张不同类型的视觉参考图片进行评测，并针对以下问题持续优化：
@@ -69,7 +69,7 @@ Prompt V2 将分类判断优先级调整为：
 - 用户可手动补充最多 2 个
 - 优先生成适合设计参考检索的标签
 - 减少重复颜色、具体物体描述和低价值标签
-
+![AI Metadata Completion](assets/ai-completion.jpg)
 ## Performance Optimization
 
 针对批量图片处理，我对 AI 调用流程进行了多轮优化，包括：
