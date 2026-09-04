@@ -29,7 +29,7 @@ Visual Island 希望把这些零散图片变成一个可持续积累的个人视
 - 图片详情编辑
 - 游客体验模式
 - 图片资产持久化管理
-
+![Upload Workflow](assets/upload.jpeg)
 ## AI Workflow
 
 AI 不作为独立聊天机器人存在，而是嵌入图片整理流程中。
