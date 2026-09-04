@@ -69,7 +69,7 @@ Prompt V2 将分类判断优先级调整为：
 - 用户可手动补充最多 2 个
 - 优先生成适合设计参考检索的标签
 - 减少重复颜色、具体物体描述和低价值标签
-![AI Metadata Completion](assets/ai-completion.jpg)
+![Prompt V2 Result](assets/prompt-v2-results.jpg)
 ## Performance Optimization
 
 针对批量图片处理，我对 AI 调用流程进行了多轮优化，包括：
